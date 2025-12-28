@@ -1,5 +1,5 @@
 # Ex.07 Design of Interactive Image Gallery
-## Date: 27/12/2025
+## Date: 29/12/2025
 
 ## AIM:
 To design a web application for an inteactive image gallery for a minimum five images with next and previous buttons.
@@ -25,7 +25,7 @@ Validate the HTML and CSS code.
 Publish the website in the given URL.
 
 ## PROGRAM:
-- - -
+~~~
 
 ranju.html
 <html>
@@ -215,7 +215,7 @@ window.onload = function () {
     show();
 };
 
-- - -
+~~~
 ## OUTPUT:
 ![alt text](<anu/ranjuapp/static/Screenshot 2025-12-27 224343.png>)
 ![alt text](<anu/ranjuapp/static/Screenshot 2025-12-27 224356.png>)
